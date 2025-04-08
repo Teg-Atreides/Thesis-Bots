@@ -1,0 +1,481 @@
+2025-03-11 11:20:58,667 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-11 11:20:59,183 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-11 11:20:59,903 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-11 11:21:06,491 INFO    [JavaFX Application Thread] theFirst.Rum - Rum closed
+2025-03-11 11:33:29,688 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-11 11:33:30,197 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-11 11:33:30,839 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-11 11:33:36,998 INFO    [JavaFX Application Thread] theFirst.Rum - Rum closed
+2025-03-11 11:33:43,976 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-11 11:33:44,399 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-11 11:33:44,921 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-11 11:33:51,867 INFO    [JavaFX Application Thread] theFirst.Rum - Rum closed
+2025-03-11 11:34:23,204 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-11 11:34:23,571 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-11 11:34:24,167 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-11 11:34:25,529 INFO    [JavaFX Application Thread] theFirst.Rum - Rum closed
+2025-03-11 11:34:31,151 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-11 11:34:31,632 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-11 11:34:32,299 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-11 11:34:36,365 INFO    [JavaFX Application Thread] theFirst.Rum - Rum closed
+2025-03-11 11:35:54,041 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-11 11:35:54,427 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-11 11:35:55,017 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-11 11:38:21,466 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-11 11:38:22,212 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-11 11:38:23,484 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-11 11:38:34,659 INFO    [JavaFX Application Thread] theFirst.Rum - Rum closed
+2025-03-11 11:39:56,237 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-11 11:39:57,179 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-11 11:39:58,445 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-11 11:40:16,731 INFO    [JavaFX Application Thread] theFirst.Rum - Rum closed
+2025-03-11 11:40:19,715 INFO    [JavaFX Application Thread] theFirst.Rum - Rum closed
+2025-03-11 11:40:38,059 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-11 11:40:38,791 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-11 11:40:40,034 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-11 11:41:34,602 INFO    [JavaFX Application Thread] theFirst.Rum - Rum closed
+2025-03-11 17:56:58,692 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-11 17:56:59,093 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-11 17:56:59,800 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-11 17:57:48,176 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-11 17:57:48,594 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-11 17:57:49,263 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-11 17:58:15,986 INFO    [JavaFX Application Thread] theFirst.Rum - Rum closed
+2025-03-11 17:58:18,485 INFO    [JavaFX Application Thread] theFirst.Rum - Rum closed
+2025-03-11 18:00:26,805 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-11 18:00:27,203 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-11 18:00:27,793 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-11 18:00:43,647 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page DISCOVERY
+2025-03-11 18:00:43,687 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page DISCOVERY
+2025-03-11 18:00:55,240 INFO    [JavaFX Application Thread] theFirst.Rum - Rum closed
+2025-03-12 08:44:54,501 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 08:44:54,954 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 08:44:55,659 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 08:45:17,575 INFO    [JavaFX Application Thread] theFirst.Rum - Rum closed
+2025-03-12 08:45:22,208 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 08:45:22,598 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 08:45:23,197 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 08:45:37,734 INFO    [JavaFX Application Thread] theFirst.Rum - Rum closed
+2025-03-12 08:45:42,456 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 08:45:42,902 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 08:45:43,529 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 08:45:49,880 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page DISCOVERY
+2025-03-12 08:45:49,920 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page DISCOVERY
+2025-03-12 08:46:16,960 INFO    [JavaFX Application Thread] controller.discovery.DiscoveryPageController - Opened log for discovery: C:\Users\peete\OneDrive\Documenten\School\2e master BI\Masterproef\Coding\Logs for testing\Level 1\logs_1_3.xes
+2025-03-12 08:46:17,867 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (1634355631) started at: 1741765577860
+2025-03-12 08:46:20,377 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (1634355631) COMPLETED at: 1741765580369 - total time: 2509
+2025-03-12 08:46:59,791 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 08:46:59,792 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page START
+2025-03-12 08:47:12,503 INFO    [JavaFX Application Thread] theFirst.Rum - Rum closed
+2025-03-12 08:47:18,924 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 08:47:19,303 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 08:47:19,924 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 08:47:26,358 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page CONFORMANCE
+2025-03-12 08:47:26,396 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page CONFORMANCE
+2025-03-12 08:47:36,220 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 08:47:36,225 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page START
+2025-03-12 08:47:44,604 INFO    [JavaFX Application Thread] theFirst.Rum - Rum closed
+2025-03-12 08:47:49,132 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 08:47:49,527 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 08:47:50,086 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 08:47:56,561 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page GENERATION
+2025-03-12 08:47:56,579 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page GENERATION
+2025-03-12 08:49:37,408 INFO    [JavaFX Application Thread] theFirst.Rum - Rum closed
+2025-03-12 08:49:41,409 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 08:49:41,793 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 08:49:42,396 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 08:49:48,844 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page GENERATION
+2025-03-12 08:49:48,879 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page GENERATION
+2025-03-12 08:50:14,360 INFO    [JavaFX Application Thread] theFirst.Rum - Rum closed
+2025-03-12 08:50:18,412 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 08:50:18,773 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 08:50:19,365 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 08:50:25,862 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page GENERATION
+2025-03-12 08:50:25,894 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page GENERATION
+2025-03-12 08:57:30,318 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 08:57:30,716 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 08:57:31,316 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 08:57:37,756 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page GENERATION
+2025-03-12 08:57:37,791 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page GENERATION
+2025-03-12 09:02:54,370 INFO    [JavaFX Application Thread] theFirst.Rum - Rum closed
+2025-03-12 09:04:00,763 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 09:04:01,147 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 09:04:01,740 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 09:04:08,231 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page GENERATION
+2025-03-12 09:04:08,265 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page GENERATION
+2025-03-12 09:04:13,006 INFO    [JavaFX Application Thread] controller.generation.GenerationPageController - Opened model for log generation: C:\Users\peete\OneDrive\Documenten\School\2e master BI\Masterproef\Coding\Logs for testing\Level 1\logs_1_1.xes
+2025-03-12 09:04:18,090 INFO    [JavaFX Application Thread] controller.generation.GenerationPageController - Opened model for log generation: C:\Users\peete\OneDrive\Documenten\School\2e master BI\Masterproef\Coding\Logs for testing\Level 1\logs_1_11.xes
+2025-03-12 09:04:23,166 INFO    [JavaFX Application Thread] controller.generation.GenerationPageController - Opened model for log generation: C:\Users\peete\OneDrive\Documenten\School\2e master BI\Masterproef\Coding\Logs for testing\Level 1\logs_1_13.xes
+2025-03-12 09:04:28,186 INFO    [JavaFX Application Thread] controller.generation.GenerationPageController - Opened model for log generation: C:\Users\peete\OneDrive\Documenten\School\2e master BI\Masterproef\Coding\Logs for testing\Level 1\logs_1_15.xes
+2025-03-12 09:04:55,827 INFO    [JavaFX Application Thread] theFirst.Rum - Rum closed
+2025-03-12 09:14:45,488 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 09:14:45,494 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page START
+2025-03-12 09:15:20,087 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page DISCOVERY
+2025-03-12 09:15:20,104 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page DISCOVERY
+2025-03-12 09:15:30,758 INFO    [JavaFX Application Thread] controller.discovery.DiscoveryPageController - Opened log for discovery: C:\Users\peete\OneDrive\Documenten\School\2e master BI\Masterproef\Coding\Logs for testing\Level 1\logs_1_17.xes
+2025-03-12 09:15:31,688 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (24920008) started at: 1741767331684
+2025-03-12 09:15:35,770 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (24920008) COMPLETED at: 1741767335764 - total time: 4080
+2025-03-12 09:15:44,364 INFO    [pool-2-thread-2] task.discovery.DiscoveryTaskMinerful - DiscoveryTaskMinerful (683360476) started at: 1741767344364
+2025-03-12 09:33:05,928 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 09:33:06,315 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 09:33:06,971 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 09:33:26,391 INFO    [JavaFX Application Thread] theFirst.Rum - Rum closed
+2025-03-12 09:33:42,168 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 09:33:42,575 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 09:33:43,455 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 09:34:05,167 INFO    [JavaFX Application Thread] theFirst.Rum - Rum closed
+2025-03-12 09:34:09,152 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 09:34:09,527 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 09:34:10,163 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 09:34:19,878 INFO    [JavaFX Application Thread] theFirst.Rum - Rum closed
+2025-03-12 09:34:40,677 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 09:34:41,072 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 09:34:41,641 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 09:34:51,800 INFO    [JavaFX Application Thread] theFirst.Rum - Rum closed
+2025-03-12 09:36:04,643 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 09:36:05,029 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 09:36:05,604 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 09:38:20,921 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 09:38:21,314 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 09:38:21,936 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 09:38:28,355 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page DISCOVERY
+2025-03-12 09:38:28,379 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page DISCOVERY
+2025-03-12 09:39:07,563 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 09:39:07,987 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 09:39:08,593 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 09:39:14,854 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page DISCOVERY
+2025-03-12 09:39:14,887 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page DISCOVERY
+2025-03-12 09:39:30,425 INFO    [JavaFX Application Thread] theFirst.Rum - Rum closed
+2025-03-12 09:39:32,307 INFO    [JavaFX Application Thread] theFirst.Rum - Rum closed
+2025-03-12 09:39:38,384 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 09:39:38,774 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 09:39:39,365 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 09:39:45,780 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page DISCOVERY
+2025-03-12 09:39:45,808 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page DISCOVERY
+2025-03-12 09:41:33,855 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 09:41:34,184 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 09:41:34,803 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 09:41:40,915 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page DISCOVERY
+2025-03-12 09:41:40,932 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page DISCOVERY
+2025-03-12 09:43:10,162 INFO    [JavaFX Application Thread] theFirst.Rum - Rum closed
+2025-03-12 09:43:12,509 INFO    [JavaFX Application Thread] theFirst.Rum - Rum closed
+2025-03-12 09:43:17,659 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 09:43:18,055 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 09:43:18,660 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 09:43:25,083 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page DISCOVERY
+2025-03-12 09:43:25,102 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page DISCOVERY
+2025-03-12 09:43:36,895 INFO    [JavaFX Application Thread] controller.discovery.DiscoveryPageController - Opened log for discovery: C:\Users\peete\OneDrive\Documenten\School\2e master BI\Masterproef\Coding\Logs for testing\Declare Startpunt\decl-1.xes
+2025-03-12 09:43:37,770 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (522299684) started at: 1741769017766
+2025-03-12 09:43:45,867 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (522299684) COMPLETED at: 1741769025860 - total time: 8094
+2025-03-12 09:45:19,390 INFO    [JavaFX Application Thread] theFirst.Rum - Rum closed
+2025-03-12 09:45:29,911 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 09:45:30,419 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 09:45:31,098 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 09:45:37,208 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page DISCOVERY
+2025-03-12 09:45:37,244 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page DISCOVERY
+2025-03-12 09:57:52,856 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 09:57:52,861 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page START
+2025-03-12 09:57:54,437 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page DISCOVERY
+2025-03-12 09:57:54,441 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page DISCOVERY
+2025-03-12 09:58:59,645 INFO    [JavaFX Application Thread] controller.discovery.DiscoveryPageController - Opened log for discovery: C:\Users\peete\OneDrive\Documenten\School\2e master BI\Masterproef\Coding\Logs for testing\Declare Startpunt\decl-1.xes
+2025-03-12 09:59:00,932 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (1931644383) started at: 1741769940924
+2025-03-12 09:59:08,546 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (1931644383) COMPLETED at: 1741769948528 - total time: 7604
+2025-03-12 10:03:12,874 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 10:03:13,674 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 10:03:14,538 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 10:03:20,051 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page DISCOVERY
+2025-03-12 10:03:20,088 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page DISCOVERY
+2025-03-12 10:03:43,457 INFO    [JavaFX Application Thread] theFirst.Rum - Rum closed
+2025-03-12 10:03:45,879 INFO    [JavaFX Application Thread] theFirst.Rum - Rum closed
+2025-03-12 10:04:47,521 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 10:04:48,147 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 10:04:49,115 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 10:04:54,478 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page DISCOVERY
+2025-03-12 10:04:54,504 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page DISCOVERY
+2025-03-12 10:06:00,696 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 10:06:01,167 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 10:06:01,872 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 10:06:07,906 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page DISCOVERY
+2025-03-12 10:06:07,933 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page DISCOVERY
+2025-03-12 10:06:38,370 INFO    [JavaFX Application Thread] controller.discovery.DiscoveryPageController - Opened log for discovery: C:\Users\peete\OneDrive\Documenten\School\2e master BI\Masterproef\Coding\Logs for testing\Declare Startpunt\decl-2.xes
+2025-03-12 10:06:39,267 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (464631593) started at: 1741770399263
+2025-03-12 10:06:42,456 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (464631593) COMPLETED at: 1741770402447 - total time: 3184
+2025-03-12 10:07:39,060 INFO    [JavaFX Application Thread] theFirst.Rum - Rum closed
+2025-03-12 10:07:40,916 INFO    [JavaFX Application Thread] theFirst.Rum - Rum closed
+2025-03-12 10:07:46,145 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 10:07:46,524 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 10:07:47,156 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 10:07:53,566 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page DISCOVERY
+2025-03-12 10:07:53,591 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page DISCOVERY
+2025-03-12 10:08:02,350 INFO    [JavaFX Application Thread] controller.discovery.DiscoveryPageController - Opened log for discovery: C:\Users\peete\OneDrive\Documenten\School\2e master BI\Masterproef\Coding\Logs for testing\Declare Startpunt\decl-1.xes
+2025-03-12 10:08:03,242 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (522299684) started at: 1741770483237
+2025-03-12 10:08:27,965 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (522299684) COMPLETED at: 1741770507959 - total time: 24722
+2025-03-12 10:09:41,444 INFO    [JavaFX Application Thread] theFirst.Rum - Rum closed
+2025-03-12 10:09:46,344 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 10:09:46,735 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 10:09:47,344 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 10:09:53,784 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page DISCOVERY
+2025-03-12 10:09:53,816 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page DISCOVERY
+2025-03-12 10:10:02,601 INFO    [JavaFX Application Thread] controller.discovery.DiscoveryPageController - Opened log for discovery: C:\Users\peete\OneDrive\Documenten\School\2e master BI\Masterproef\Coding\Logs for testing\Declare Startpunt\decl-1.xes
+2025-03-12 10:10:03,472 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (1634355631) started at: 1741770603468
+2025-03-12 10:10:38,202 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (1634355631) COMPLETED at: 1741770638193 - total time: 34725
+2025-03-12 10:11:25,832 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 10:11:26,275 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 10:11:26,926 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 10:11:33,105 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page DISCOVERY
+2025-03-12 10:11:33,141 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page DISCOVERY
+2025-03-12 10:11:41,923 INFO    [JavaFX Application Thread] controller.discovery.DiscoveryPageController - Opened log for discovery: C:\Users\peete\OneDrive\Documenten\School\2e master BI\Masterproef\Coding\Logs for testing\Declare Startpunt\decl-1.xes
+2025-03-12 10:11:42,788 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (709586538) started at: 1741770702785
+2025-03-12 10:12:19,713 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (709586538) COMPLETED at: 1741770739703 - total time: 36918
+2025-03-12 10:13:18,416 INFO    [JavaFX Application Thread] theFirst.Rum - Rum closed
+2025-03-12 10:13:19,852 INFO    [JavaFX Application Thread] theFirst.Rum - Rum closed
+2025-03-12 10:13:29,007 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 10:13:29,436 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 10:13:30,064 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 10:13:36,378 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page DISCOVERY
+2025-03-12 10:13:36,404 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page DISCOVERY
+2025-03-12 10:13:45,173 INFO    [JavaFX Application Thread] controller.discovery.DiscoveryPageController - Opened log for discovery: C:\Users\peete\OneDrive\Documenten\School\2e master BI\Masterproef\Coding\Logs for testing\Declare Startpunt\decl-1.xes
+2025-03-12 10:13:46,025 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (1634355631) started at: 1741770826021
+2025-03-12 10:15:00,587 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (1634355631) COMPLETED at: 1741770900568 - total time: 74547
+2025-03-12 10:17:43,364 INFO    [JavaFX Application Thread] theFirst.Rum - Rum closed
+2025-03-12 10:18:06,818 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 10:18:07,212 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 10:18:07,835 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 10:18:14,234 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page DISCOVERY
+2025-03-12 10:18:14,259 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page DISCOVERY
+2025-03-12 10:18:23,003 INFO    [JavaFX Application Thread] controller.discovery.DiscoveryPageController - Opened log for discovery: C:\Users\peete\OneDrive\Documenten\School\2e master BI\Masterproef\Coding\Logs for testing\Declare Startpunt\decl-1.xes
+2025-03-12 10:18:23,880 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (709586538) started at: 1741771103874
+2025-03-12 10:20:42,584 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (709586538) COMPLETED at: 1741771242577 - total time: 138703
+2025-03-12 10:22:07,602 INFO    [JavaFX Application Thread] theFirst.Rum - Rum closed
+2025-03-12 10:22:15,361 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 10:22:15,770 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 10:22:16,402 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 10:22:22,790 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page DISCOVERY
+2025-03-12 10:22:22,813 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page DISCOVERY
+2025-03-12 10:22:31,548 INFO    [JavaFX Application Thread] controller.discovery.DiscoveryPageController - Opened log for discovery: C:\Users\peete\OneDrive\Documenten\School\2e master BI\Masterproef\Coding\Logs for testing\Declare Startpunt\decl-1.xes
+2025-03-12 10:22:32,397 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (1912242345) started at: 1741771352392
+2025-03-12 10:25:15,741 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (1912242345) COMPLETED at: 1741771515734 - total time: 163342
+2025-03-12 10:27:33,511 INFO    [JavaFX Application Thread] theFirst.Rum - Rum closed
+2025-03-12 10:27:40,872 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 10:27:41,251 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 10:27:41,819 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 10:27:48,305 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page DISCOVERY
+2025-03-12 10:27:48,334 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page DISCOVERY
+2025-03-12 10:27:57,047 INFO    [JavaFX Application Thread] controller.discovery.DiscoveryPageController - Opened log for discovery: C:\Users\peete\OneDrive\Documenten\School\2e master BI\Masterproef\Coding\Logs for testing\Declare Startpunt\decl-1.xes
+2025-03-12 10:27:57,922 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (522299684) started at: 1741771677916
+2025-03-12 10:28:32,448 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (522299684) COMPLETED at: 1741771712441 - total time: 34525
+2025-03-12 10:29:07,965 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 10:29:08,349 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 10:29:08,984 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 10:29:15,398 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page DISCOVERY
+2025-03-12 10:29:15,428 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page DISCOVERY
+2025-03-12 10:29:24,159 INFO    [JavaFX Application Thread] controller.discovery.DiscoveryPageController - Opened log for discovery: C:\Users\peete\OneDrive\Documenten\School\2e master BI\Masterproef\Coding\Logs for testing\Declare Startpunt\decl-1.xes
+2025-03-12 10:29:25,034 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (647849912) started at: 1741771765028
+2025-03-12 10:29:33,860 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (647849912) COMPLETED at: 1741771773848 - total time: 8820
+2025-03-12 10:31:34,789 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 10:31:35,185 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 10:31:35,803 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 10:31:42,246 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page DISCOVERY
+2025-03-12 10:31:42,282 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page DISCOVERY
+2025-03-12 10:31:50,994 INFO    [JavaFX Application Thread] controller.discovery.DiscoveryPageController - Opened log for discovery: C:\Users\peete\OneDrive\Documenten\School\2e master BI\Masterproef\Coding\Logs for testing\Declare Startpunt\decl-1.xes
+2025-03-12 10:31:51,857 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (709586538) started at: 1741771911850
+2025-03-12 10:32:06,108 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (709586538) COMPLETED at: 1741771926098 - total time: 14248
+2025-03-12 10:32:33,976 INFO    [JavaFX Application Thread] theFirst.Rum - Rum closed
+2025-03-12 10:32:35,725 INFO    [JavaFX Application Thread] theFirst.Rum - Rum closed
+2025-03-12 10:32:37,651 INFO    [JavaFX Application Thread] theFirst.Rum - Rum closed
+2025-03-12 10:32:55,240 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 10:32:55,678 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 10:32:56,318 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 10:33:02,551 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page DISCOVERY
+2025-03-12 10:33:02,582 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page DISCOVERY
+2025-03-12 10:33:11,307 INFO    [JavaFX Application Thread] controller.discovery.DiscoveryPageController - Opened log for discovery: C:\Users\peete\OneDrive\Documenten\School\2e master BI\Masterproef\Coding\Logs for testing\Declare Startpunt\decl-1.xes
+2025-03-12 10:33:12,192 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (522299684) started at: 1741771992188
+2025-03-12 10:33:24,175 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (522299684) COMPLETED at: 1741772004168 - total time: 11980
+2025-03-12 10:34:39,754 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 10:34:40,139 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 10:34:40,731 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 10:34:47,195 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page DISCOVERY
+2025-03-12 10:34:47,228 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page DISCOVERY
+2025-03-12 10:34:56,009 INFO    [JavaFX Application Thread] controller.discovery.DiscoveryPageController - Opened log for discovery: C:\Users\peete\OneDrive\Documenten\School\2e master BI\Masterproef\Coding\Logs for testing\Declare Startpunt\decl-1.xes
+2025-03-12 10:34:56,881 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (709586538) started at: 1741772096874
+2025-03-12 10:35:10,918 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (709586538) COMPLETED at: 1741772110911 - total time: 14037
+2025-03-12 10:35:53,507 INFO    [JavaFX Application Thread] theFirst.Rum - Rum closed
+2025-03-12 10:35:55,028 INFO    [JavaFX Application Thread] theFirst.Rum - Rum closed
+2025-03-12 10:35:59,612 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 10:35:59,998 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 10:36:00,616 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 10:36:07,069 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page DISCOVERY
+2025-03-12 10:36:07,099 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page DISCOVERY
+2025-03-12 10:36:15,841 INFO    [JavaFX Application Thread] controller.discovery.DiscoveryPageController - Opened log for discovery: C:\Users\peete\OneDrive\Documenten\School\2e master BI\Masterproef\Coding\Logs for testing\Declare Startpunt\decl-1.xes
+2025-03-12 10:36:16,711 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (1634355631) started at: 1741772176705
+2025-03-12 10:36:24,091 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (1634355631) COMPLETED at: 1741772184080 - total time: 7375
+2025-03-12 10:37:00,087 INFO    [JavaFX Application Thread] theFirst.Rum - Rum closed
+2025-03-12 10:37:05,046 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 10:37:05,459 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 10:37:06,053 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 10:37:12,471 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page DISCOVERY
+2025-03-12 10:37:12,493 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page DISCOVERY
+2025-03-12 10:37:21,238 INFO    [JavaFX Application Thread] controller.discovery.DiscoveryPageController - Opened log for discovery: C:\Users\peete\OneDrive\Documenten\School\2e master BI\Masterproef\Coding\Logs for testing\Declare Startpunt\decl-1.xes
+2025-03-12 10:37:22,116 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (1634355631) started at: 1741772242110
+2025-03-12 10:37:35,046 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (1634355631) COMPLETED at: 1741772255040 - total time: 12930
+2025-03-12 10:37:53,253 INFO    [JavaFX Application Thread] theFirst.Rum - Rum closed
+2025-03-12 10:37:58,485 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 10:37:58,873 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 10:37:59,490 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 10:38:05,868 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page DISCOVERY
+2025-03-12 10:38:05,896 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page DISCOVERY
+2025-03-12 10:38:14,629 INFO    [JavaFX Application Thread] controller.discovery.DiscoveryPageController - Opened log for discovery: C:\Users\peete\OneDrive\Documenten\School\2e master BI\Masterproef\Coding\Logs for testing\Declare Startpunt\decl-1.xes
+2025-03-12 10:38:15,481 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (522299684) started at: 1741772295477
+2025-03-12 10:38:32,235 INFO    [pool-2-thread-2] task.discovery.DiscoveryTaskMinerful - DiscoveryTaskMinerful (1823243423) started at: 1741772312234
+2025-03-12 10:39:17,907 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 10:39:18,336 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 10:39:19,022 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 10:39:25,282 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page DISCOVERY
+2025-03-12 10:39:25,308 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page DISCOVERY
+2025-03-12 10:39:34,060 INFO    [JavaFX Application Thread] controller.discovery.DiscoveryPageController - Opened log for discovery: C:\Users\peete\OneDrive\Documenten\School\2e master BI\Masterproef\Coding\Logs for testing\Declare Startpunt\decl-1.xes
+2025-03-12 10:39:34,929 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (1912242345) started at: 1741772374921
+2025-03-12 10:39:58,873 INFO    [pool-2-thread-2] task.discovery.DiscoveryTaskMinerful - DiscoveryTaskMinerful (612403161) started at: 1741772398871
+2025-03-12 10:40:32,630 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 10:40:33,030 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 10:40:33,651 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 10:40:40,020 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page DISCOVERY
+2025-03-12 10:40:40,054 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page DISCOVERY
+2025-03-12 10:40:48,822 INFO    [JavaFX Application Thread] controller.discovery.DiscoveryPageController - Opened log for discovery: C:\Users\peete\OneDrive\Documenten\School\2e master BI\Masterproef\Coding\Logs for testing\Declare Startpunt\decl-1.xes
+2025-03-12 10:40:49,707 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (1634355631) started at: 1741772449703
+2025-03-12 10:41:22,580 INFO    [pool-2-thread-2] task.discovery.DiscoveryTaskMinerful - DiscoveryTaskMinerful (286865250) started at: 1741772482579
+2025-03-12 10:42:18,850 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 10:42:19,292 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 10:42:19,931 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 10:42:26,210 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page DISCOVERY
+2025-03-12 10:42:26,248 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page DISCOVERY
+2025-03-12 10:42:34,996 INFO    [JavaFX Application Thread] controller.discovery.DiscoveryPageController - Opened log for discovery: C:\Users\peete\OneDrive\Documenten\School\2e master BI\Masterproef\Coding\Logs for testing\Declare Startpunt\decl-1.xes
+2025-03-12 10:42:35,872 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (522299684) started at: 1741772555866
+2025-03-12 10:43:10,300 INFO    [pool-2-thread-2] task.discovery.DiscoveryTaskMinerful - DiscoveryTaskMinerful (612403161) started at: 1741772590298
+2025-03-12 10:44:49,602 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 10:44:50,010 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 10:44:50,640 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 10:44:56,989 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page DISCOVERY
+2025-03-12 10:44:57,015 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page DISCOVERY
+2025-03-12 10:45:05,753 INFO    [JavaFX Application Thread] controller.discovery.DiscoveryPageController - Opened log for discovery: C:\Users\peete\OneDrive\Documenten\School\2e master BI\Masterproef\Coding\Logs for testing\Declare Startpunt\decl-1.xes
+2025-03-12 10:45:06,626 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (1634355631) started at: 1741772706622
+2025-03-12 10:45:41,560 INFO    [pool-2-thread-2] task.discovery.DiscoveryTaskMinerful - DiscoveryTaskMinerful (612403161) started at: 1741772741560
+2025-03-12 10:46:36,139 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 10:46:36,528 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 10:46:37,112 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 10:46:43,588 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page DISCOVERY
+2025-03-12 10:46:43,617 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page DISCOVERY
+2025-03-12 10:46:52,335 INFO    [JavaFX Application Thread] controller.discovery.DiscoveryPageController - Opened log for discovery: C:\Users\peete\OneDrive\Documenten\School\2e master BI\Masterproef\Coding\Logs for testing\Declare Startpunt\decl-1.xes
+2025-03-12 10:46:53,199 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (522299684) started at: 1741772813191
+2025-03-12 10:47:46,169 INFO    [pool-2-thread-2] task.discovery.DiscoveryTaskMinerful - DiscoveryTaskMinerful (612403161) started at: 1741772866167
+2025-03-12 10:48:31,936 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 10:48:32,306 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 10:48:32,876 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 10:48:39,407 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page DISCOVERY
+2025-03-12 10:48:39,440 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page DISCOVERY
+2025-03-12 10:48:48,200 INFO    [JavaFX Application Thread] controller.discovery.DiscoveryPageController - Opened log for discovery: C:\Users\peete\OneDrive\Documenten\School\2e master BI\Masterproef\Coding\Logs for testing\Declare Startpunt\decl-1.xes
+2025-03-12 10:48:49,064 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (522299684) started at: 1741772929058
+2025-03-12 10:49:44,966 INFO    [pool-2-thread-2] task.discovery.DiscoveryTaskMinerful - DiscoveryTaskMinerful (1844707393) started at: 1741772984965
+2025-03-12 10:51:18,745 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 10:51:19,132 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 10:51:19,723 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 10:51:26,197 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page DISCOVERY
+2025-03-12 10:51:26,235 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page DISCOVERY
+2025-03-12 10:51:34,919 INFO    [JavaFX Application Thread] controller.discovery.DiscoveryPageController - Opened log for discovery: C:\Users\peete\OneDrive\Documenten\School\2e master BI\Masterproef\Coding\Logs for testing\Declare Startpunt\decl-1.xes
+2025-03-12 10:51:35,772 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (1634355631) started at: 1741773095767
+2025-03-12 10:52:41,277 INFO    [pool-2-thread-2] task.discovery.DiscoveryTaskMinerful - DiscoveryTaskMinerful (1042899458) started at: 1741773161276
+2025-03-12 11:01:13,737 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 11:01:14,216 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 11:01:14,934 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 11:01:21,036 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page DISCOVERY
+2025-03-12 11:01:21,061 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page DISCOVERY
+2025-03-12 11:01:29,763 INFO    [JavaFX Application Thread] controller.discovery.DiscoveryPageController - Opened log for discovery: C:\Users\peete\OneDrive\Documenten\School\2e master BI\Masterproef\Coding\Logs for testing\Declare Startpunt\decl-1.xes
+2025-03-12 11:01:30,622 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (522299684) started at: 1741773690617
+2025-03-12 11:02:42,099 INFO    [pool-2-thread-2] task.discovery.DiscoveryTaskMinerful - DiscoveryTaskMinerful (260731398) started at: 1741773762098
+2025-03-12 11:03:29,966 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 11:03:30,355 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 11:03:30,927 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 11:03:37,382 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page DISCOVERY
+2025-03-12 11:03:37,409 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page DISCOVERY
+2025-03-12 11:03:46,115 INFO    [JavaFX Application Thread] controller.discovery.DiscoveryPageController - Opened log for discovery: C:\Users\peete\OneDrive\Documenten\School\2e master BI\Masterproef\Coding\Logs for testing\Declare Startpunt\decl-1.xes
+2025-03-12 11:03:46,980 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (1634355631) started at: 1741773826974
+2025-03-12 11:04:58,481 INFO    [pool-2-thread-2] task.discovery.DiscoveryTaskMinerful - DiscoveryTaskMinerful (920044181) started at: 1741773898480
+2025-03-12 11:08:56,679 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 11:08:57,060 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 11:08:57,657 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 11:09:04,130 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page DISCOVERY
+2025-03-12 11:09:04,164 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page DISCOVERY
+2025-03-12 11:09:12,861 INFO    [JavaFX Application Thread] controller.discovery.DiscoveryPageController - Opened log for discovery: C:\Users\peete\OneDrive\Documenten\School\2e master BI\Masterproef\Coding\Logs for testing\Declare Startpunt\decl-1.xes
+2025-03-12 11:09:13,721 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (1634355631) started at: 1741774153717
+2025-03-12 11:10:25,184 INFO    [pool-2-thread-2] task.discovery.DiscoveryTaskMinerful - DiscoveryTaskMinerful (1042899458) started at: 1741774225183
+2025-03-12 13:39:29,790 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 13:39:31,036 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 13:39:32,586 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 13:39:35,015 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page DISCOVERY
+2025-03-12 13:39:35,051 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page DISCOVERY
+2025-03-12 13:40:49,055 INFO    [JavaFX Application Thread] theFirst.Rum - Rum closed
+2025-03-12 13:41:00,330 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 13:41:01,095 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 13:41:02,498 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 13:41:14,908 INFO    [JavaFX Application Thread] theFirst.Rum - Rum closed
+2025-03-12 13:41:21,182 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 13:41:21,926 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 13:41:23,211 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 13:41:27,985 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page DISCOVERY
+2025-03-12 13:41:28,045 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page DISCOVERY
+2025-03-12 13:42:31,945 INFO    [JavaFX Application Thread] theFirst.Rum - Rum closed
+2025-03-12 13:42:40,422 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 13:42:41,119 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 13:42:42,452 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 13:42:47,267 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page DISCOVERY
+2025-03-12 13:42:47,321 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page DISCOVERY
+2025-03-12 13:42:57,835 INFO    [JavaFX Application Thread] controller.discovery.DiscoveryPageController - Opened log for discovery: C:\Users\peete\OneDrive\Documenten\School\2e master BI\Masterproef\Coding\Logs for testing\Declare Startpunt\decl-1.xes
+2025-03-12 13:42:59,594 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (203055880) started at: 1741783379585
+2025-03-12 13:44:09,865 INFO    [pool-2-thread-2] task.discovery.DiscoveryTaskMinerful - DiscoveryTaskMinerful (612403161) started at: 1741783449865
+2025-03-12 14:04:34,351 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-12 14:04:35,105 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-12 14:04:36,397 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-12 14:04:41,162 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page DISCOVERY
+2025-03-12 14:04:41,259 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page DISCOVERY
+2025-03-12 14:04:51,705 INFO    [JavaFX Application Thread] controller.discovery.DiscoveryPageController - Opened log for discovery: C:\Users\peete\OneDrive\Documenten\School\2e master BI\Masterproef\Coding\Logs for testing\Declare Startpunt\decl-1.xes
+2025-03-12 14:04:53,455 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (1634355631) started at: 1741784693442
+2025-03-12 14:06:03,810 INFO    [pool-2-thread-2] task.discovery.DiscoveryTaskMinerful - DiscoveryTaskMinerful (286865250) started at: 1741784763807
+2025-03-13 10:00:48,912 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-13 10:00:49,349 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-13 10:00:50,262 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-13 10:00:56,269 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page DISCOVERY
+2025-03-13 10:00:56,293 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page DISCOVERY
+2025-03-13 10:01:06,605 INFO    [JavaFX Application Thread] controller.discovery.DiscoveryPageController - Opened log for discovery: C:\Users\peete\OneDrive\Documenten\School\2e master BI\Masterproef\Coding\Logs for testing\Declare Startpunt\decl-1.xes
+2025-03-13 10:01:07,517 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (1634355631) started at: 1741856467513
+2025-03-13 10:01:52,314 INFO    [pool-2-thread-2] task.discovery.DiscoveryTaskMinerful - DiscoveryTaskMinerful (422048279) started at: 1741856512313
+2025-03-13 10:03:24,970 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-13 10:03:25,404 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-13 10:03:26,069 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-13 10:03:32,336 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page DISCOVERY
+2025-03-13 10:03:32,369 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page DISCOVERY
+2025-03-13 10:03:42,647 INFO    [JavaFX Application Thread] controller.discovery.DiscoveryPageController - Opened log for discovery: C:\Users\peete\OneDrive\Documenten\School\2e master BI\Masterproef\Coding\Logs for testing\Declare Startpunt\decl-1.xes
+2025-03-13 10:03:43,498 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (709586538) started at: 1741856623494
+2025-03-13 10:04:35,888 INFO    [pool-2-thread-2] task.discovery.DiscoveryTaskMinerful - DiscoveryTaskMinerful (1651584392) started at: 1741856675887
+2025-03-13 10:08:53,838 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-13 10:08:54,220 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-13 10:08:54,853 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-13 10:09:01,283 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page DISCOVERY
+2025-03-13 10:09:01,315 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page DISCOVERY
+2025-03-13 10:09:11,598 INFO    [JavaFX Application Thread] controller.discovery.DiscoveryPageController - Opened log for discovery: C:\Users\peete\OneDrive\Documenten\School\2e master BI\Masterproef\Coding\Logs for testing\Declare Startpunt\decl-1.xes
+2025-03-13 10:09:12,468 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (522299684) started at: 1741856952461
+2025-03-13 10:10:04,856 INFO    [pool-2-thread-2] task.discovery.DiscoveryTaskMinerful - DiscoveryTaskMinerful (422048279) started at: 1741857004854
+2025-03-13 10:13:32,020 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-13 10:13:32,447 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-13 10:13:33,067 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-13 10:13:39,391 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page DISCOVERY
+2025-03-13 10:13:39,421 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page DISCOVERY
+2025-03-13 10:13:49,659 INFO    [JavaFX Application Thread] controller.discovery.DiscoveryPageController - Opened log for discovery: C:\Users\peete\OneDrive\Documenten\School\2e master BI\Masterproef\Coding\Logs for testing\Declare Startpunt\decl-1.xes
+2025-03-13 10:13:50,518 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (1912242345) started at: 1741857230512
+2025-03-13 10:14:42,925 INFO    [pool-2-thread-2] task.discovery.DiscoveryTaskMinerful - DiscoveryTaskMinerful (1042899458) started at: 1741857282925
+2025-03-13 10:16:48,319 INFO    [JavaFX Application Thread] theFirst.Rum - Rum started
+2025-03-13 10:16:48,727 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page START
+2025-03-13 10:16:49,534 DEBUG   [JavaFX Application Thread] theFirst.Rum - Primary stage set visible
+2025-03-13 10:16:55,762 INFO    [JavaFX Application Thread] controller.common.RootLayoutController - Navigate to page DISCOVERY
+2025-03-13 10:16:55,785 DEBUG   [JavaFX Application Thread] controller.common.NavigationSidebarController - Sidebar highlight updated for page DISCOVERY
+2025-03-13 10:17:06,049 INFO    [JavaFX Application Thread] controller.discovery.DiscoveryPageController - Opened log for discovery: C:\Users\peete\OneDrive\Documenten\School\2e master BI\Masterproef\Coding\Logs for testing\Declare Startpunt\decl-1.xes
+2025-03-13 10:17:06,914 INFO    [pool-2-thread-1] task.discovery.DiscoveryTaskDeclare - DiscoveryTaskDeclare (1634355631) started at: 1741857426910
+2025-03-13 10:17:59,284 INFO    [pool-2-thread-2] task.discovery.DiscoveryTaskMinerful - DiscoveryTaskMinerful (260731398) started at: 1741857479284
