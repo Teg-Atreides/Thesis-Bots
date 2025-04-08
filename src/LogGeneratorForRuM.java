@@ -30,7 +30,7 @@ public class LogGeneratorForRuM {
 
         System.out.println("!!!Do not forget to open RuM!!!");
 
-        System.out.println("The absolute path to the directory where the declare models are stored");
+        System.out.println("The absolute path to the directory where the declare models are stored:");
         String path = scan.nextLine();
         path = path.replace("/", "\\");
 
