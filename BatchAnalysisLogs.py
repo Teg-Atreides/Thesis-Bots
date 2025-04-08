@@ -76,8 +76,6 @@ def getAvgLengthOfPaths(log):
         lengthOfTraces.append(count)
 
     averageLengthsPaths.append(sum(lengthOfTraces)/amountOfTraces)
-    avgLength = extract_features(log, ["trace_len_mean"])
-    averageLengthsPaths.append(avgLength)
 
 def determineAvgTime(log):
     firstTime = log.groupby("CASE").agg({'TIME': min})
