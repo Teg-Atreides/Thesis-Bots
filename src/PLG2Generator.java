@@ -5,6 +5,8 @@ import java.io.File;
 import java.io.IOException;
 import java.awt.Toolkit;
 import java.awt.datatransfer.StringSelection;
+import java.nio.file.Path;
+import java.util.Scanner;
 
 public class PLG2Generator {
 
@@ -21,11 +23,23 @@ public class PLG2Generator {
         System.out.println("Automation started in a separate thread. Exiting main thread.");
     }
 
+
+    // Only the pathname is a necessary variable because the default amount of cases (1000) is the amount of cases that I want, so it does not need to be changed.
     public static void runAutomation() throws Exception {
         Robot robot = new Robot();
+        Scanner scan_dir = new Scanner(System.in);
+        System.out.println("The directory where the BPMN-models are stored:");
 
-        File dir = new File("C:\\Users\\peete\\OneDrive\\Documenten\\School\\2e master BI\\Masterproef\\Coding\\Logs for testing\\Declare Startpunt\\Level3\\Logs\\ResultsImperative");
+        String path = scan_dir.nextLine();
+
+        System.out.println(path);
+
+        //File dir = new File("C:\\Users\\peete\\OneDrive\\Documenten\\School\\2e master BI\\Masterproef\\Coding\\Logs for testing\\TestAutomation");
+
+        File dir = new File(path);
         File[] files = dir.listFiles((d, name) -> name.endsWith(".bpmn"));
+
+        new File(dir + "\\Logs").mkdirs();
 
         if (files != null) {
             int count = 0;
