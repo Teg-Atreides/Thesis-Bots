@@ -33,6 +33,7 @@ public class PLG2Generator {
         String path = scan_dir.nextLine();
 
         System.out.println(path);
+        path = path.replace("/", "\\");
 
         //File dir = new File("C:\\Users\\peete\\OneDrive\\Documenten\\School\\2e master BI\\Masterproef\\Coding\\Logs for testing\\TestAutomation");
 

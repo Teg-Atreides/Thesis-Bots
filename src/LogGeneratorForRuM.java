@@ -4,6 +4,7 @@ import java.io.File;
 import java.io.IOException;
 import java.awt.Toolkit;
 import java.awt.datatransfer.StringSelection;
+import java.util.Scanner;
 
 
 //make sure RuM is already opened on the log generator page when trying to run this
@@ -25,8 +26,29 @@ public class LogGeneratorForRuM {
     private static void runAutomation() throws Exception {
         Robot robot = new Robot();
 
-        File dir = new File("C:\\Users\\peete\\OneDrive\\Documenten\\School\\2e master BI\\Masterproef\\Coding\\Logs for testing\\Declare Startpunt\\Level1\\Logs\\ResultsDeclarative");
+        Scanner scan = new Scanner(System.in);
+
+        System.out.println("!!!Do not forget to open RuM!!!");
+
+        System.out.println("The absolute path to the directory where the declare models are stored");
+        String path = scan.nextLine();
+        path = path.replace("/", "\\");
+
+        System.out.println("The minimum length of the logs");
+        Integer min = scan.nextInt();
+
+        System.out.println("The maximum length of the logs");
+        Integer max = scan.nextInt();
+
+        System.out.println("The amount of cases er log");
+        Integer amountOfPaths = scan.nextInt();
+
+        //File dir = new File("C:\\Users\\peete\\OneDrive\\Documenten\\School\\2e master BI\\Masterproef\\Coding\\Logs for testing\\Declare Startpunt\\Level1\\Logs\\ResultsDeclarative");
+        File dir = new File(path);
+
         File[] files = dir.listFiles((d, name) -> name.endsWith(".decl"));
+
+        new File(dir + "\\Logs").mkdirs();
 
 
         if (files != null){
@@ -35,7 +57,7 @@ public class LogGeneratorForRuM {
                 count+=1;
                 OpenModel(robot, file);
                 SetGenerationMode(robot);
-                SetGeneralParameters(robot, 4, 12, 1000);
+                SetGeneralParameters(robot, min, max, amountOfPaths);
                 GenerateAndSave(robot, count, dir.getAbsolutePath());
             }
         }
