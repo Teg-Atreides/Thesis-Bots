@@ -2,6 +2,7 @@ import os
 import pm4py as p
 import pandas as pd
 import fnmatch
+import argparse
 
 from feeed.feature_extractor import extract_features
 
@@ -10,7 +11,23 @@ from datetime import datetime, timedelta
 
 
 
-folder = r"C:\Users\peete\OneDrive\Documenten\School\2e master BI\Masterproef\Coding\Logs for testing\Declare Startpunt\Level3\Logs\ResultsImperative\Logs"
+parser = argparse.ArgumentParser(description='Take a set of event logs and analyze them in bulk.')
+
+parser.add_argument('--clean', nargs='?', default=False, type=bool,
+                    help='indicate whether to clean the log or not, default is false', choices=[False,True])
+
+parser.add_argument('--input', nargs='?',
+                    help='specify the folder where the event logs can be found')
+
+parser.add_argument('--makeModels', nargs='?', default=False, type=bool,
+                    help='indicate whether to create BPMN models of the logs as well, default is false', choices=[False,True])
+
+args = parser.parse_args()
+
+
+folder = args.input
+clean = args.clean
+createModels = args.makeModels
 
 files = os.listdir(folder)
 
@@ -59,6 +76,8 @@ def getAvgLengthOfPaths(log):
         lengthOfTraces.append(count)
 
     averageLengthsPaths.append(sum(lengthOfTraces)/amountOfTraces)
+    avgLength = extract_features(log, ["trace_len_mean"])
+    averageLengthsPaths.append(avgLength)
 
 def determineAvgTime(log):
     firstTime = log.groupby("CASE").agg({'TIME': min})
@@ -77,7 +96,11 @@ def cleanLog(log):
     return logA_F
     
 
+if clean: 
+    os.makedirs(os.path.join(folder, 'Filtered'), exist_ok=True)
 
+if createModels:
+    os.makedirs(os.path.join(folder, 'BPMN-models'), exist_ok=True)
 
 # Main body: consists of a loop of all the events logs through all the functions mentioned above.
 for i in logs:
@@ -86,22 +109,24 @@ for i in logs:
     log = p.read.read_xes(current_file)
 
 
-    
-    """log = cleanLog(log)
+    if clean:
+        log = cleanLog(log)
 
-    p.write.write_xes(log, file_path=os.path.join(folder, 'Filtered', i))
+        p.write.write_xes(log, file_path=os.path.join(folder, 'Filtered', i))
 
+    if createModels:
 
-    model = p.discovery.discover_bpmn_inductive(log,
-                                                activity_key='concept:name',
-                                                timestamp_key='time:timestamp',
-                                                case_id_key='case:concept:name',
-                                                noise_threshold=0.2)
-    name_model = str(count) + ".bpmn"
-    p.write.write_bpmn(model, file_path = os.path.join(folder, "ResultsImperative", name_model))"""
+        model = p.discovery.discover_bpmn_inductive(log,
+                                                    activity_key='concept:name',
+                                                    timestamp_key='time:timestamp',
+                                                    case_id_key='case:concept:name',
+                                                    noise_threshold=0.2)
+        name_model = str(count) + ".bpmn"
+        p.write.write_bpmn(model, file_path = os.path.join(folder, "BPMN-models", name_model))
 
 
     log = log.rename(columns={'concept:name':'ACTIVITY', 'time:timestamp':'TIME', 'case:concept:name':'CASE'})
+
     getAmountOfPaths(log)
     determineEntropy(current_file)
     getAvgLengthOfPaths(log)
