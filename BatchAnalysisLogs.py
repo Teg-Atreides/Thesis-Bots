@@ -128,8 +128,7 @@ def determineNgrams(log, n):
                     ngrams_list.append(df)
         else:
             ngrams_list.append(0)
-
-    print(ngrams_list)
+        print(ngrams_list)
     
     return len(ngrams_list)
 

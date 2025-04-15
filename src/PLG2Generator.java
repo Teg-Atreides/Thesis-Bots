@@ -27,12 +27,12 @@ public class PLG2Generator {
     // Only the pathname is a necessary variable because the default amount of cases (1000) is the amount of cases that I want, so it does not need to be changed.
     public static void runAutomation() throws Exception {
         Robot robot = new Robot();
+        System.out.println("Don't forget to open PLG2");
         Scanner scan_dir = new Scanner(System.in);
         System.out.println("The directory where the BPMN-models are stored:");
 
         String path = scan_dir.nextLine();
 
-        System.out.println(path);
         path = path.replace("/", "\\");
 
         //File dir = new File("C:\\Users\\peete\\OneDrive\\Documenten\\School\\2e master BI\\Masterproef\\Coding\\Logs for testing\\TestAutomation");
@@ -83,7 +83,7 @@ public class PLG2Generator {
     }
 
     private static void SaveLog(Robot robot, int count, String dict) throws Exception{
-        copyToClipboard(dict + "\\Logs\\" + count);
+        copyToClipboard(dict + "\\Logs\\" + count + "_");
         paste(robot);
         robot.mouseMove(940,703);
         Thread.sleep(500);
