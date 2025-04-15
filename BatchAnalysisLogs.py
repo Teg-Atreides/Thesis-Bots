@@ -48,6 +48,7 @@ amountsofPaths = []
 entropies = []
 averageLengthsPaths = []
 averageTimes = []
+DFRelationships = []
 
 
 # Functions to make the code easier
@@ -92,6 +93,22 @@ def determineAvgTime(log):
 def cleanLog(log):
     logA_F = log[log['lifecycle:transition'] == 'start']
     return logA_F
+
+def determineDirectlyFollows(log):
+    df_list = []
+
+    concat = log.groupby("CASE", as_index=False).agg({'ACTIVITY': ' '.join})
+
+    traces = concat["ACTIVITY"].unique()
+
+    for i in traces:
+        for j in range(1, len(i)):
+            df = i[j-1] + i[j]
+            if df not in df_list:
+                df_list.append(df)
+    
+    DFRelationships.append(len(df_list))
+
     
 
 if clean: 
@@ -113,7 +130,6 @@ for i in logs:
         p.write.write_xes(log, file_path=os.path.join(folder, 'Filtered', i))
 
     if createModels:
-
         model = p.discovery.discover_bpmn_inductive(log,
                                                     activity_key='concept:name',
                                                     timestamp_key='time:timestamp',
@@ -129,14 +145,19 @@ for i in logs:
     determineEntropy(current_file)
     getAvgLengthOfPaths(log)
     print(i) #to determine where the error occurs
-    determineAvgTime(log)
+    #determineAvgTime(log)
+    determineDirectlyFollows(log)
     #print("Log " + str(count) + "/" + str(amountOfLogs) + " Done")
     count += 1
 
     
 
 #Export lists to CSV files so they can get analyzed statistically in R
-dict = {'amountsofPaths': amountsofPaths, 'entropies': entropies, 'averageLengthsPaths': averageLengthsPaths, 'averageTimes': averageTimes}
+dict = {'amountsofPaths': amountsofPaths, 
+        'entropies': entropies, 
+        'averageLengthsPaths': averageLengthsPaths, 
+        #'averageTimes': averageTimes, 
+        'DFRelationships': DFRelationships}
 
 df = pd.DataFrame(dict)
 
