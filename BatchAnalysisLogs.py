@@ -49,6 +49,8 @@ entropies = []
 averageLengthsPaths = []
 averageTimes = []
 DFRelationships = []
+N3grams = []
+N4grams = []
 
 
 # Functions to make the code easier
@@ -97,7 +99,7 @@ def cleanLog(log):
 def determineDirectlyFollows(log):
     df_list = []
 
-    concat = log.groupby("CASE", as_index=False).agg({'ACTIVITY': ' '.join})
+    concat = log.groupby("CASE", as_index=False).agg({'ACTIVITY': ''.join})
 
     traces = concat["ACTIVITY"].unique()
 
@@ -108,6 +110,28 @@ def determineDirectlyFollows(log):
                 df_list.append(df)
     
     DFRelationships.append(len(df_list))
+
+def determineNgrams(log, n):
+
+    ngrams_list = []
+
+    concat = log.groupby("CASE", as_index=False).agg({'ACTIVITY': ''.join})
+
+    traces = concat["ACTIVITY"].unique()
+
+    for i in traces:
+        print(i)
+        if n < len(i):
+            for j in range(n, len(i)+1):
+                df = i[j-n:j]
+                if df not in ngrams_list:
+                    ngrams_list.append(df)
+        else:
+            ngrams_list.append(0)
+
+    print(ngrams_list)
+    
+    return len(ngrams_list)
 
     
 
@@ -147,6 +171,8 @@ for i in logs:
     print(i) #to determine where the error occurs
     #determineAvgTime(log)
     determineDirectlyFollows(log)
+    N3grams.append(determineNgrams(log, 3)) 
+    N4grams.append(determineNgrams(log, 4)) 
     #print("Log " + str(count) + "/" + str(amountOfLogs) + " Done")
     count += 1
 
@@ -157,7 +183,9 @@ dict = {'amountsofPaths': amountsofPaths,
         'entropies': entropies, 
         'averageLengthsPaths': averageLengthsPaths, 
         #'averageTimes': averageTimes, 
-        'DFRelationships': DFRelationships}
+        'DFRelationships': DFRelationships,
+        'N3grams': N3grams,
+        'N4grams': N4grams}
 
 df = pd.DataFrame(dict)
 
