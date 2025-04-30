@@ -86,6 +86,7 @@ public class LogGeneratorForRuM {
         robot.mouseRelease(KeyEvent.BUTTON1_DOWN_MASK);
         Thread.sleep(1000);
         copyToClipboard(file.getAbsolutePath());
+        Thread.sleep(100);
         paste(robot);
         Thread.sleep(500);
         robot.keyPress(KeyEvent.VK_ENTER);
@@ -125,6 +126,7 @@ public class LogGeneratorForRuM {
 
         Thread.sleep(500);
         copyToClipboard("" + min);
+        Thread.sleep(100);
         paste(robot);
 
         // Set Maximum Events Per Trace
@@ -140,6 +142,7 @@ public class LogGeneratorForRuM {
         robot.keyRelease(KeyEvent.VK_CONTROL);
         Thread.sleep(500);
         copyToClipboard("" + max);
+        Thread.sleep(100);
         paste(robot);
 
 
@@ -156,6 +159,7 @@ public class LogGeneratorForRuM {
         robot.keyRelease(KeyEvent.VK_CONTROL);
         Thread.sleep(500);
         copyToClipboard("" + amountOfTraces);
+        Thread.sleep(100);
         paste(robot);
 
     }
@@ -186,6 +190,7 @@ public class LogGeneratorForRuM {
         Thread.sleep(15000);
 
         copyToClipboard(dict + "\\Logs\\" + count + ".xes");
+        Thread.sleep(100);
         paste(robot);
 
         Thread.sleep(1500);

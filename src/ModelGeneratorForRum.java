@@ -73,10 +73,10 @@ public class ModelGeneratorForRum { //this one takes a directory of xes files an
                 paste(robot);
                 Thread.sleep(500);
                 robot.keyPress(KeyEvent.VK_ENTER);
-                Thread.sleep(1000); //20 second wait because it takes a while
+                Thread.sleep(2500);
                 //press cancel so we can go to minerful quicker
                 robot.mouseMove(1219, 433);
-                Thread.sleep(1000);
+                Thread.sleep(2000);
                 robot.mousePress(KeyEvent.BUTTON1_DOWN_MASK);
                 Thread.sleep(500);
                 robot.mouseRelease(KeyEvent.BUTTON1_DOWN_MASK);
@@ -114,6 +114,7 @@ public class ModelGeneratorForRum { //this one takes a directory of xes files an
                 Thread.sleep(500);
                 String name = dir + "\\Decl-models\\model" + count + ".decl";
                 copyToClipboard(name);
+                Thread.sleep(500);
                 paste(robot);
                 robot.keyPress(KeyEvent.VK_ENTER);
                 robot.keyRelease(KeyEvent.VK_ENTER);

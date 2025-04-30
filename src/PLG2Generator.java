@@ -48,6 +48,7 @@ public class PLG2Generator {
                 count += 1;
                 OpenModel(robot, file);
                 GenerateLog(robot);
+                Thread.sleep(5000);
                 SaveLog(robot, count, dir.getAbsolutePath());
             }
         }
@@ -62,7 +63,13 @@ public class PLG2Generator {
         Thread.sleep(500);
         robot.mouseRelease(KeyEvent.BUTTON1_DOWN_MASK);
         Thread.sleep(5000);
+        robot.mouseMove(940,675);
+        Thread.sleep(500);
+        robot.mousePress(KeyEvent.BUTTON1_DOWN_MASK);
+        Thread.sleep(100);
+        robot.mouseRelease(KeyEvent.BUTTON1_DOWN_MASK);
         copyToClipboard(file.getAbsolutePath());
+        Thread.sleep(500);
         paste(robot);
         Thread.sleep(500);
         robot.keyPress(KeyEvent.VK_ENTER);
@@ -83,7 +90,13 @@ public class PLG2Generator {
     }
 
     private static void SaveLog(Robot robot, int count, String dict) throws Exception{
+        robot.mouseMove(940,675);
+        Thread.sleep(500);
+        robot.mousePress(KeyEvent.BUTTON1_DOWN_MASK);
+        Thread.sleep(100);
+        robot.mouseRelease(KeyEvent.BUTTON1_DOWN_MASK);
         copyToClipboard(dict + "\\Logs\\" + count + "_");
+        Thread.sleep(500);
         paste(robot);
         robot.mouseMove(940,703);
         Thread.sleep(500);

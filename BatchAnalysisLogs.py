@@ -59,8 +59,8 @@ def getAmountOfPaths(log):
     amountsofPaths.append(len(concat['ACTIVITY'].value_counts()))
 
 def determineEntropy(log_path):
-    e = extract_features(log_path, ["eventropy_global_block_flattened"])
-    entropies.append(e['eventropy_global_block_flattened'])
+    e = extract_features(log_path, ["eventropy_global_block"])
+    entropies.append(e['eventropy_global_block'])
 
 def getAvgLengthOfPaths(log):
     concat = log.groupby("CASE", as_index=False).agg({'ACTIVITY': ' '.join})
@@ -120,7 +120,6 @@ def determineNgrams(log, n):
     traces = concat["ACTIVITY"].unique()
 
     for i in traces:
-        print(i)
         if n < len(i):
             for j in range(n, len(i)+1):
                 df = i[j-n:j]
@@ -128,7 +127,6 @@ def determineNgrams(log, n):
                     ngrams_list.append(df)
         else:
             ngrams_list.append(0)
-        print(ngrams_list)
     
     return len(ngrams_list)
 
