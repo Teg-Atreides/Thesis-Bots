@@ -17,9 +17,16 @@ In order to make BPMN models, the inductive miner algorithm that has been built 
 Lastly, in order to input the folder that contains the event logs, use --i "absolute/path/to/event/logs"
 
 Example use cases:
+
+````
 python "path/to/BatchAnalysisLogs.py" --i "Path/to/event/logs"
+````
+````
 python "path/to/BatchAnalysisLogs.py" --i "Path/to/event/logs" --makeModels True
+````
+````
 python "path/to/BatchAnalysisLogs.py" --i "Path/to/event/logs" --makeModels True --clean True
+````
 
 
 #LogGeneratorForRum.java
